@@ -1,71 +1,58 @@
-# Venu Krishna Devadi
-
-## Passionate LLM Enthusiast
-
-I am deeply passionate about Natural Language Processing (NLP) and Large Language Models (LLMs). My expertise lies in applying advanced data science and machine learning techniques to solve real-world problems.
+# Venu Gopal Krishna Devadi 🌟
+👨‍💻 **Data Science Graduate Student** | 🎓 Saint Peter’s University, Jersey City, NJ  
+💡 Passionate about **Natural Language Processing (NLP)**, **Deep Learning**, and leveraging AI for innovative problem-solving.  
 
 ---
 
-## Work Experience
-
-### Graduate Research Assistant
-**Saint Peter’s University, Jersey City, NJ**  
-_February 2024 – May 2024_
-
-- Developed robust NLP solutions using BERT and Temporal Convolutional Networks (TCNs) for text data analysis and classification.
-- Led projects from data preprocessing to model development and evaluation.
-- Optimized model performance through rigorous hyperparameter tuning.
-
-### Customer Support Senior Associate
-**Google Operations Centre, Jersey City, NJ**  
-_February 2023 – May 2023_
-
-- Spearheaded sentiment analysis of COVID-related tweets using BERT, GPT, and RoBERTa.
-- Led the end-to-end execution of sentiment analysis projects.
-- Enhanced model performance through grid search and randomized search for hyperparameter tuning.
+## 👩‍💻 About Me
+I am currently pursuing a **Master of Science in Data Science** with a strong focus on **Transformer models**, **NLP**, and **Deep Learning**. My academic and professional journey has revolved around developing cutting-edge AI models and tackling real-world challenges in text and image processing.
 
 ---
 
-## Academic Projects
+## 📚 Academic Projects
+### **Multilingual Language Translator**
+- Built a Transformer-based model to translate English into Hindi and Telugu using custom tokenization with BERT.
+- Implemented top-k sampling for real-time, user-selectable language translations.  
+**[View Project](#)**  
 
-### COVID Tweet Classification Using BERT
-_February 2023_
+### **Anime Character Image Classification**
+- Leveraged EfficientNet B2 architecture for accurate anime character classification.
+- Achieved high accuracy through advanced transfer learning techniques.  
+**[View Project](#)**  
 
-- Implemented a robust NLP model for classifying COVID-19-related tweets.
-- Achieved precise classification contributing to real-time monitoring and public health analysis.
+### **COVID Tweet Classification**
+- Designed and trained a BERT-based NLP model for real-time tweet classification.
+- Contributed to public health monitoring during the pandemic.  
+**[View Project](#)**  
 
-### Multiclass Tweet Classification
-_April 2024_
-
-- Utilized stratified sampling for balanced tweet class distribution.
-- Employed BERT, LSTM, and RNN for tweet classification.
-- Achieved superior performance using transfer learning with pre-trained language models.
-
-### Machine Learning Doubt Clarifier Chatbot
-_April 2024_
-
-- Developed a chatbot using T5 and GPT for accurate user query responses.
-- Compared performance of deep learning techniques with traditional models.
-- Evaluated model performance using precision, recall, and F1 score.
-
-### Fake News Detection Using Language Models
-_April 2024_
-
-- Created a Fake News Detection system using BERT and RoBERTa.
-- Encoded news articles and headlines with pre-trained language models.
-- Achieved robust results in identifying deceptive content through fine-tuning and transfer learning.
+### **Machine Learning Doubt Clarifier Chatbot**
+- Developed a chatbot using T5 and GPT models to handle user queries in machine learning and data science.  
+**[View Project](#)**  
 
 ---
 
-## Skills
+## 📄 Publications
+- **Infodemic Management using Natural Language Processing: A COVID-19 Case Study**  
+  Presented at **AMIA 2024 Annual Symposium – P157**, San Francisco, CA.  
 
-- **NLP Frameworks**: BERT, GPT, RoBERTa, Transformers
-- **Deep Learning Frameworks**: TensorFlow, PyTorch
-- **Model Evaluation and Optimization**: Hyperparameter Tuning, Grid Search, Randomized Search
-- **Data Processing and Analysis**: Pandas, NumPy, Scikit-learn
+- **Information Management using Natural Language Processing: A COVID-19 Case Study**  
+  Accepted in *Advances in Healthcare using Machine Learning*, Taylor and Francis.  
 
 ---
 
-## Interests
+## 🛠️ Skills
+- **Programming**: Python  
+- **Tools & Frameworks**: PyTorch, TensorFlow/Keras  
+- **Techniques**: Transformer Models, Hyperparameter Tuning, Transfer Learning  
 
-- Exploration, Badminton, Painting, Hiking
+---
+
+## 🌱 Let's Collaborate!
+I’m open to exploring opportunities in **AI research**, **NLP applications**, and **innovative deep learning projects**. Feel free to connect or contribute!  
+
+📧 **venukrishnadevadi@gmail.com**  
+🔗 **[LinkedIn](https://linkedin.com/in/venu-devadi-2350b3252/)**  
+
+---
+
+✨ Check out my repositories and projects for more! 😊
